@@ -9,6 +9,6 @@ public class user {
 
     @GetMapping("/user")
     public String info(){
-        return "Raya Lilova";
+        return "Raya Lilovaa";
     }
 }
