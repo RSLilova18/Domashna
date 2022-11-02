@@ -9,6 +9,6 @@ public class age {
 
     @GetMapping("/age")
     public String info(){
-        return "18 years old";
+        return "18 years old. ";
     }
 }
